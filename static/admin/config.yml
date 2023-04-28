@@ -15,8 +15,8 @@ local_backend: true
 # i18n https://www.netlifycms.org/docs/beta-features/#i18n-support
 i18n:
   structure: multiple_folders
-  locales: [ en, fr ]
-  default_locale: en
+  locales: [ sv, en ]
+  default_locale: sv
 
 
 # collections configuration
@@ -25,7 +25,7 @@ collections:
     label: "Global settings"
     i18n:
       structure: single_file
-      locales: [ en, fr ]
+      locales: [ sv, en ]
     files:
       - file: "data/home.yml"
         i18n: true
