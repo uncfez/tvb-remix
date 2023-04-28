@@ -23,12 +23,12 @@ contentDir = "content/en"
 weight = 2
 mark = "EN"
 
-[Languages.fr]
-languageName = "fr"
-languageCode = "fr-fr"
-contentDir = "content/fr"
-weight = 3
-mark = "FR"
+# [Languages.fr]
+# languageName = "fr"
+#languageCode = "fr-fr"
+# contentDir = "content/fr"
+# weight = 3
+# mark = "FR"
 
 
 [taxonomies]
