@@ -7,7 +7,7 @@ sv:
     → Ändra allt utan en enda linje kod.
     → Gratis och open-source!
   image: /media/wave.jpg
-  copyright: "  © 20232 - Turf Västerbotten &"
+  copyright: "  © 2023 - Turf Västerbotten &"
   register: turfvasterbotten.se
 en:
   title: Remix, a <span>theme for Hugo</span> fully editable with <span>Netlify
@@ -20,5 +20,5 @@ en:
     → It's free and open-source!
   image: /media/wave.jpg
   copyright: "  © 2017-2022 - OhBonsaï &"
-  register: Roneo.org
-  registerUrl: https://roneo.org/en
+  register: turfvasterbotten.se
+  registerUrl: https://www.turfvasterbotten.se/
