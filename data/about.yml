@@ -1,3 +1,20 @@
+sv:
+  title: <span>Om föreningen</span>
+  backgroundTitle: Föreningen
+  portText:
+  items:
+    - icon: fa-award
+      title: "Kanske något om event och/eller vandringspris?"
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+        libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: fa-compass
+      title: "Turf är ett gps-spel"
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+        libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: fa-leaf
+      title: "Som uppmuntrar utevistelse"
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+        libero, perspiciatis eos provident laborum eum dignissimos.
 en:
   title: <span>About</span>
   backgroundTitle: About

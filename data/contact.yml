@@ -1,3 +1,14 @@
+sv:
+  backgroundTitle: Kontakt
+  phone: +86 571 1234 5678
+  detail: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
+    provident, eum eligendi blanditiis ex explica
+  location: Västerbotten, Sverige
+  subtitle:
+  title: <span>Contact</span> Us
+  languages: Svenska, English
+  email: contact@example.org
+  fax: +86 571 1234 5678
 en:
   backgroundTitle: Contact
   phone: +86 571 1234 5678
