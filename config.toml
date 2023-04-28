@@ -1,26 +1,33 @@
-baseURL = 'https://roneo.itcouldbewor.se/'
-languageCode = 'en-us'
-defaultContentLanguage = 'en'
+baseURL = 'https://clever-kitten-e33e53.netlify.app/'
+languageCode = 'sv-sv'
+defaultContentLanguage = 'sv'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = 'Turf Västerbotten - bara en zon till'
+  metaDescription = "Turf Västerbotten - föreningen för turfare i Västerbotten"
 
 
 # Languages
+[Languages.sv]
+languageName = "sv"
+languageCode = "sv-sv"
+contentDir = "content/sv"
+weight = 1
+mark = "SV"
+
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
+contentDir = "content/en"
+weight = 2
 mark = "EN"
 
 [Languages.fr]
 languageName = "fr"
 languageCode = "fr-fr"
 contentDir = "content/fr"
-weight = 2
+weight = 3
 mark = "FR"
 
 
